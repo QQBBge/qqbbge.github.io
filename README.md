@@ -1,2 +1,1 @@
-# Hi
-This is my homepage
+Hi, this is my homepage
